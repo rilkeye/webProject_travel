@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="281a0431-5158-4314-bba5-83788c0bd7af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/web/servlet/ActiveUserServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/web/servlet/ExitServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/web/servlet/FindUserServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/web/servlet/LoginServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/web/servlet/RegistUserServlet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585659373321</updated>
       <workItem from="1585659380767" duration="1323000" />
-      <workItem from="1585719437594" duration="1230000" />
+      <workItem from="1585719437594" duration="2444000" />
+      <workItem from="1585740998001" duration="599000" />
     </task>
     <servers />
   </component>
@@ -82,9 +77,9 @@
       <screen x="0" y="0" width="1562" height="848" />
     </state>
     <state width="1519" height="218" key="GridCell.Tab.0.right/0.0.1562.848@0.0.1562.848" timestamp="1585660704174" />
-    <state x="460" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1585719437055">
+    <state x="460" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1585740997287">
       <screen x="0" y="0" width="1562" height="848" />
     </state>
-    <state x="460" y="248" key="com.intellij.ide.util.TipDialog/0.0.1562.848@0.0.1562.848" timestamp="1585719437055" />
+    <state x="460" y="248" key="com.intellij.ide.util.TipDialog/0.0.1562.848@0.0.1562.848" timestamp="1585740997287" />
   </component>
 </project>
